@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate frontend-backend developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maximilianyt10&label=Profile%20views&color=0e75b6&style=flat" alt="maximilianyt10" /> </p>
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MaximilianYT10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MaximilianYT10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
 
 - 📫 How to reach me **support@lb-customs.xyz**
 
